@@ -17,7 +17,7 @@ info: |
 
 <div class="flex flex-row content-evenly place-content-evenly items-center">
 <div>
-<img class="w-60" src="Tux-simple.svg"/>
+<img class="w-60" src="/Tux-simple.svg"/>
 </div>
 <div>
 <ic-twotone-cloud class="text-13xl text-true-gray-400" />
@@ -148,7 +148,7 @@ Use *tmux* so we can detach our processes from the controlling terminal
 
 </div>
 <div>
-<img class="w-100 mx-auto items-center self-center" src="tmux.png" />
+<img class="w-100 mx-auto items-center self-center" src="/tmux.png" />
 </div>
 </div>
 
