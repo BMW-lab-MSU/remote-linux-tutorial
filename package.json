@@ -6,10 +6,12 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.19.6",
-    "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*",
-    "playwright-chromium": "^1.11.1"
+    "@slidev/cli": "^0.28.7",
+    "@slidev/theme-default": "^0.21.1"
   },
-  "name": "remote-linux-tutorial"
+  "name": "remote-linux-tutorial",
+  "devDependencies": {
+    "@iconify-json/fa-brands": "^1.1.0",
+    "@iconify-json/ion": "^1.1.0"
+  }
 }
