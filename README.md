@@ -8,3 +8,5 @@ To build/run the slideshow:
 - go to locahost:3030
 
 This slideshow was made using [slidev](https://github.com/slidevjs/slidev)
+
+View the presentation on [GitHub pages](https://bmw-lab-msu.github.io/remote-linux-tutorial/)
