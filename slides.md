@@ -44,7 +44,6 @@ image: https://images.unsplash.com/photo-1542311121-071d8a3fd374?ixid=MnwxMjA3fD
     - MATLAB, X11 forwarding
     - outputting to a file
     - Jupyter notebooks
-    - neural net, GPU
 
 
 ---
@@ -307,8 +306,3 @@ ssh -L 8888:localhost:8888 trevor@bmw-lab-fedora
 jupyter notebook --no-browser
 ```
 
----
-
-# Neural net with GPU
-
-- take it away, Brad!
