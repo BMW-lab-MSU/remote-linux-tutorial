@@ -11,7 +11,10 @@
   },
   "name": "remote-linux-tutorial",
   "devDependencies": {
+    "@iconify-json/emojione": "^1.1.0",
     "@iconify-json/fa-brands": "^1.1.0",
-    "@iconify-json/ion": "^1.1.0"
+    "@iconify-json/ic": "^1.1.1",
+    "@iconify-json/ion": "^1.1.0",
+    "@iconify-json/mdi": "^1.1.0"
   }
 }
